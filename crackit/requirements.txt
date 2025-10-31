@@ -1,7 +1,0 @@
-flask
-gradio
-transformers
-pymupdf
-huggingface_hub==0.25.2
-python-dotenv
-requests
